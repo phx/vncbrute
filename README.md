@@ -4,9 +4,7 @@
 
 ![vncbrute](./image.webp?raw=true)
 
-This is a VNC brute force utility that only uses the standard Go libraries and was written entirely by GPT-4o and o1-preview.
-
-I did not write a single line of this code. 
+This is a VNC brute force utility that only uses the standard Go libraries and was written entirely by GPT-4o and o1-preview. I did not write a single line of this code. 
 
 With 100 concurrent workers and a 2 second timeout, it takes about 7 minutes to execute a successful dictionary attack against a VNC server listening on localhost, using a list of 1,000 passwords.
 
