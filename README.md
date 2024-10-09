@@ -27,7 +27,7 @@ hoping the good will outweigh the bad.
 
 This will install the version that looks best in the terminal, which relies on a third party library.
 
-`go install github.com/phx/vncbrute@latest`
+`go install github.com/phx/vncbrute`
 
 To install without dependencies:
 
