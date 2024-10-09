@@ -53,3 +53,7 @@ options:
   -c             number of concurrent attempts (default: 1)
   -t             connection timeout (default: 3s)
 ```
+
+## TO-DO:
+
+- [Divinity Framework](https://github.com/HDN-1D10T/divinity) integration/implementation
