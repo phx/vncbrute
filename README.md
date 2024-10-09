@@ -1,8 +1,8 @@
 ![vncbrute](./image.webp?raw=true)
 
-![screenshot](./screenshot.png?raw=true)
-
 # vncbrute
+
+![screenshot](./screenshot.png?raw=true)
 
 This is a VNC brute force utility that only uses the standard Go libraries and was written entirely by GPT-4o and o1-preview.
 
