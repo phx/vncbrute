@@ -27,7 +27,9 @@ hoping the good will outweigh the bad.
 
 The following command will install the version that looks prettier in the terminal but also relies on a third party library:
 
-`go install github.com/phx/vncbrute`
+```
+go install github.com/phx/vncbrute
+```
 
 ## Install without dependencies:
 
