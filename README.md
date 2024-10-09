@@ -23,13 +23,13 @@ People just don't understand that this is the gamechanger. Prior to this point i
 need to know is how to tell time. The scaleability offered by outsourcing the low level knowledge to artificial intelligence, opens up a whole new world of possibilities for society. This is very dangerous. But it is also very exciting, and I'm
 hoping the good will outweigh the bad.
 
-## Installation
+## Installation:
 
-This will install the version that looks best in the terminal, which relies on a third party library.
+The following command will install the version that looks prettier in the terminal but also relies on a third party library:
 
 `go install github.com/phx/vncbrute`
 
-To install without dependencies:
+## Install without dependencies:
 
 ```
 git clone https://github.com/phx/vncbrute
