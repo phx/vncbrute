@@ -35,7 +35,9 @@ To install without dependencies:
 git clone https://github.com/phx/vncbrute
 cd vncbrute
 rm -f go.sum go.mod
+mv vncbrute.go.stdlib vncbrute.stdlib.go
 go mod init vncbrute
+go mod tidy
 go build -o vncbrute vncbrute.stdlib.go
 sudo cp vncbrute /usr/local/bin/
 ```
